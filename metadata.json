@@ -1,0 +1,6 @@
+{
+  "name": "Smart Borewell Intelligence Platform",
+  "description": "Production-grade explainable decision-support system evaluating groundwater feasibility, sustainability risk, GIS spatial intelligence, regulatory constraints, and cost estimation across Hyderabad & Telangana.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
